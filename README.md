@@ -32,7 +32,8 @@ Desarrollar un script utilizando una Chrome Extension o Puppeteer para scrapear 
 
 ### **Entrega:**
 
-- Repositorio en GitHub con el código fuente.
+- Fecha Limite: Lunes 24 de Marzo hasta las 12:00PM
+- PR en GitHub con el código fuente.
 - Instrucciones claras para ejecutar el script.
 - Archivo JSON o CSV con los datos extraídos.
 - La entrega se realizará a través de un Pull Request (PR) en el repositorio de GitHub donde se encuentran estas indicaciones.
